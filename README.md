@@ -37,11 +37,25 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> &nbsp;Tech Stack
 
+<h4 align="center">Languages & Frameworks</h4>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,typescript,javascript,tailwind,html,css&theme=dark" />
   </a>
 </p>
+
+<h4 align="center">AI / ML Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+<h4 align="center">DevOps & Tools</h4>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,linux,bash,vscode,figma&theme=dark" />
