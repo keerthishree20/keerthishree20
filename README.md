@@ -103,6 +103,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">✍️ Blog Writing App</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/blog-writing-app" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://blog-writing-app-ashy.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>AI-Powered Blog Writing Platform</strong><br/>Next.js + AI-assisted content creation</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🛣️ RoadGuard AI</h3>
       <p align="center">
         <a href="https://github.com/keerthishree20/RoadGuard-AI" target="_blank">
@@ -111,6 +123,8 @@
       </p>
       <p align="center"><strong>AI-Based Pothole Detection System</strong><br/>Computer Vision for smarter road safety</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 RAG Chatbot</h3>
       <p align="center">
