@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FE428E&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+KeerthiShree+TS!+%F0%9F%91%8B;AI+%7C+Full-Stack+%7C+Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+KeerthiShree+TS!+%F0%9F%91%8B;AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Building+Smart+Systems+with+AI+%E2%9C%A8" alt="Typing SVG" />
 </h1>
-
-<h3 align="center">CS Student @ SNS College of Technology | AI Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keerthishree20&label=Profile%20Views&color=fe428e&style=flat" alt="Profile Views" />
