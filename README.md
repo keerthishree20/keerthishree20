@@ -127,7 +127,7 @@
           <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><strong>AI-Powered Job Application Automation</strong><br/>Auto-tailors resume, generates cover letter & applies via LinkedIn Easy Apply using Gemini AI</p>
+      <p align="center"><strong>AI-Powered Job Application Automation</strong><br/>Auto-tailors resume, generates cover letter & applies via LinkedIn Easy Apply using Gemini AI + Playwright</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✍️ Blog Writing App</h3>
@@ -139,67 +139,7 @@
           <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
-      <p align="center"><strong>AI-Powered Blog Writing Platform</strong><br/>Next.js + AI-assisted content creation</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛣️ RoadGuard AI</h3>
-      <p align="center">
-        <a href="https://github.com/keerthishree20/RoadGuard-AI" target="_blank">
-          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>AI-Based Pothole Detection System</strong><br/>Computer Vision for smarter road safety</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 RAG Chatbot</h3>
-      <p align="center">
-        <a href="https://github.com/keerthishree20/rag-chatbot" target="_blank">
-          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>Retrieval-Augmented Generation Chatbot</strong><br/>Intelligent document Q&A with vector search</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📄 Document Classifier</h3>
-      <p align="center">
-        <a href="https://github.com/keerthishree20/document-classifier-training" target="_blank">
-          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>ML Document Classification</strong><br/>Automatic categorization using trained models</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Attrition Risk Analysis</h3>
-      <p align="center">
-        <a href="https://github.com/keerthishree20/Employee-attrition-risk-analysis" target="_blank">
-          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>Employee Attrition Prediction</strong><br/>Data-driven HR analytics & ML modeling</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🖼️ TrueFrame</h3>
-      <p align="center">
-        <a href="https://github.com/keerthishree20/TrueFrame" target="_blank">
-          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>AI Frame Analysis & Verification</strong><br/>Intelligent visual inspection tool</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧪 Shelf Life</h3>
-      <p align="center">
-        <a href="https://github.com/keerthishree20/Shelf-Life" target="_blank">
-          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>Product Shelf Life Prediction</strong><br/>ML-powered food safety management</p>
+      <p align="center"><strong>AI-Powered Blog Writing Platform</strong><br/>Next.js + OpenAI GPT-4 content generation</p>
     </td>
   </tr>
   <tr>
@@ -210,16 +150,16 @@
           <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><strong>Neural Network Platform</strong><br/>Exploration & visualization of neural architectures</p>
+      <p align="center"><strong>Neural Network Exploration Platform</strong><br/>Interactive visualization of neural architectures</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📸 Image Prediction API</h3>
+      <h3 align="center">📊 Employee Attrition Analysis</h3>
       <p align="center">
-        <a href="https://github.com/keerthishree20/image-prediction-api" target="_blank">
+        <a href="https://github.com/keerthishree20/Employee-attrition-risk-analysis" target="_blank">
           <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><strong>AI Image Classification API</strong><br/>REST API for real-time image prediction</p>
+      <p align="center"><strong>Attrition Risk Prediction</strong><br/>Data-driven HR analytics & ML modeling</p>
     </td>
   </tr>
   <tr>
@@ -230,7 +170,7 @@
           <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><strong>IoT Smart Doorbell</strong><br/>Intelligent detection & notification system</p>
+      <p align="center"><strong>IoT Smart Doorbell</strong><br/>Face detection & notification system using OpenCV + Raspberry Pi</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📈 Insurance Cost Prediction</h3>
