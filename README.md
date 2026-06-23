@@ -127,7 +127,7 @@
           <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><strong>AI-Powered Job Application Automation</strong><br/>Auto-tailors resume, generates cover letter & applies via LinkedIn Easy Apply using Gemini AI + Playwright</p>
+      <p align="center"><strong>AI-Powered Job Application Automation</strong><br/>Auto-tailors resume, generates cover letter & applies via LinkedIn Easy Apply using Groq Llama 3.3 + Playwright</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✍️ Blog Writing App</h3>
@@ -139,7 +139,7 @@
           <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
-      <p align="center"><strong>AI-Powered Blog Writing Platform</strong><br/>Next.js + OpenAI GPT-4 content generation</p>
+      <p align="center"><strong>Full-Stack Blog Writing Platform</strong><br/>Next.js 16 + TipTap Editor + Auth.js + PostgreSQL</p>
     </td>
   </tr>
   <tr>
