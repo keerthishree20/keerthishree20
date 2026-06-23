@@ -118,6 +118,8 @@
       </p>
       <p align="center"><strong>Probabilistic Revenue Forecasting & Budget Optimization</strong><br/>FastAPI + Next.js 14 + Monte Carlo Simulation</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">💼 Job Apply Assistant</h3>
       <p align="center">
@@ -127,8 +129,6 @@
       </p>
       <p align="center"><strong>AI-Powered Job Application Automation</strong><br/>Auto-tailors resume, generates cover letter & applies via LinkedIn Easy Apply using Gemini AI</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">✍️ Blog Writing App</h3>
       <p align="center">
@@ -141,6 +141,8 @@
       </p>
       <p align="center"><strong>AI-Powered Blog Writing Platform</strong><br/>Next.js + AI-assisted content creation</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛣️ RoadGuard AI</h3>
       <p align="center">
@@ -150,8 +152,6 @@
       </p>
       <p align="center"><strong>AI-Based Pothole Detection System</strong><br/>Computer Vision for smarter road safety</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 RAG Chatbot</h3>
       <p align="center">
