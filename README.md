@@ -95,6 +95,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">💜 Eternova</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/eternova" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://eternova-peach.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Secret Love & Relationship Memory Platform</strong><br/>Memory books, time capsules, love letters & couple mode — Next.js + FastAPI + SQLite</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🔮 RevCast AI</h3>
       <p align="center">
         <a href="https://github.com/keerthishree20/RevCast-AI" target="_blank">
