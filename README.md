@@ -182,6 +182,19 @@
       <p align="center"><strong>Linear Regression from Scratch</strong><br/>Built in pure Python — zero libraries</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔤 Autocorrect NLP</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/autocorrect-nlp" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Probabilistic Spell-Checker & Autocorrect</strong><br/>Peter Norvig's algorithm + JSON caching — Python & Flask</p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
