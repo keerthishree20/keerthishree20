@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-navy-phi-66.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-A960FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/keerthishree-ts/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -95,6 +98,118 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">⚙️ Tether</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/tether" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Durable Job Queue on Postgres</strong><br/>Leases with SKIP LOCKED, retries, dead-letter queue and idempotency — chaos-tested by killing workers mid-run</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧩 Keel</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/keel" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Language with a Bytecode VM & GC</strong><br/>Tree-walking interpreter plus a stack VM and mark-and-sweep collector, held to one conformance suite</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔭 Wake</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/wake" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>OpenTelemetry Trace Collector</strong><br/>Decodes OTLP protobuf by hand, repairs clock skew, stores to SQLite and serves flame charts</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚢 Berth</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/berth" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Reverse Proxy & Load Balancer</strong><br/>asyncio HTTP proxy with consistent hashing, circuit breakers and health checks — benchmarked against nginx</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚓ Anchor</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/anchor" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Crash-Safe Key-Value Store</strong><br/>Append-only log with hint files and compaction; crash tests kill the writer mid-write</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧭 Sextant</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/sextant" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>HNSW Vector Search Index</strong><br/>Hierarchical navigable small-world graph built from scratch, measured on GloVe vectors</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛰️ Convoy</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/convoy" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Raft Consensus + Chaos Simulator</strong><br/>Leader election, log replication and a replicated key-value store, tested under deterministic network chaos</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✂️ Cutline</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/cutline" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Payment Fraud Risk Scorer</strong><br/>Gradient-boosted risk scoring with explanations, served by FastAPI behind a Next.js dashboard</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 AsliDeal</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/aslideal" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Is That Amazon Discount Real?</strong><br/>Compares the price with what other Indian stores charge today, via SerpApi — with all the evidence shown</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗂️ Cardsmith</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/cardsmith" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://keerthishree20.github.io/cardsmith/" target="_blank">
+          <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Spaced-Repetition Flashcards</strong><br/>A real SM-2 scheduler, cloze deletions, search and stats — one HTML file, everything stays in your browser</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚌 Headway</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/headway" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Real-Time Transit Reliability</strong><br/>GTFS-Realtime feeds over WebSockets with live maps and headway tracking</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">💜 Eternova</h3>
       <p align="center">
         <a href="https://github.com/keerthishree20/eternova" target="_blank">
@@ -104,8 +219,10 @@
           <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
-      <p align="center"><strong>Secret Love & Relationship Memory Platform</strong><br/>Memory books, time capsules, love letters & couple mode — Next.js + FastAPI + SQLite</p>
+      <p align="center"><strong>Relationship Memory Platform</strong><br/>Memory books, time capsules, love letters and couple mode — Next.js + FastAPI + SQLite</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔮 RevCast AI</h3>
       <p align="center">
@@ -116,7 +233,56 @@
           <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
-      <p align="center"><strong>Probabilistic Revenue Forecasting & Budget Optimization</strong><br/>FastAPI + Next.js 14 + Monte Carlo Simulation</p>
+      <p align="center"><strong>Revenue Forecasting & Budget Optimiser</strong><br/>Monte Carlo simulation with calibration backtests — FastAPI + Next.js 14</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✈️ AeroInspect</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/aerospace-inspection" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Aircraft Defect Detection</strong><br/>Custom-trained YOLOv8 finds defects and grades them against airworthiness thresholds — runs locally</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Noise to Insights</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/noise-to-insights" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Survey Open-Text Analytics</strong><br/>Themes free-text answers and tests which differences are statistically significant</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🥫 ShelfLife Sentinel</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/shelf-life-sentinel" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Retail Expiry Scanner</strong><br/>Scan a barcode or a date panel and the product is logged fresh, expiring or expired — OCR + Gemini Vision</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧾 SpendLens</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/smart-expense-tracker" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Receipt-Scanning Expense Tracker</strong><br/>Tesseract OCR plus Groq turns a photographed receipt into a categorised expense, with budgets and insights</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 ResumeCraft</h3>
+      <p align="center">
+        <a href="https://github.com/keerthishree20/resume-craft" target="_blank">
+          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>AI Resume & Interview Toolkit</strong><br/>Tailored resume, cover letter, ATS score, skill-gap plan and interview questions — Google Gemini</p>
     </td>
   </tr>
   <tr>
@@ -127,7 +293,7 @@
           <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><strong>AI-Powered Job Application Automation</strong><br/>Auto-tailors resume, generates cover letter & applies via LinkedIn Easy Apply using Groq Llama 3.3 + Playwright</p>
+      <p align="center"><strong>Job Application Automation</strong><br/>Tailors the resume, writes the cover letter and fills the forms — Groq + Playwright</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✍️ Blog Writing App</h3>
@@ -139,60 +305,7 @@
           <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
-      <p align="center"><strong>Full-Stack Blog Writing Platform</strong><br/>Next.js 16 + TipTap Editor + Auth.js + PostgreSQL</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 Neural Minds</h3>
-      <p align="center">
-        <a href="https://github.com/keerthishree20/Neural-Minds" target="_blank">
-          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>Neural Network Exploration Platform</strong><br/>Interactive visualization of neural architectures</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Employee Attrition Analysis</h3>
-      <p align="center">
-        <a href="https://github.com/keerthishree20/Employee-attrition-risk-analysis" target="_blank">
-          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>Attrition Risk Prediction</strong><br/>Data-driven HR analytics & ML modeling</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔔 Smart Doorbell</h3>
-      <p align="center">
-        <a href="https://github.com/keerthishree20/smart-doorbell" target="_blank">
-          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>IoT Smart Doorbell</strong><br/>Face detection & notification system using OpenCV + Raspberry Pi</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 Insurance Cost Prediction</h3>
-      <p align="center">
-        <a href="https://github.com/keerthishree20/insurance-cost-prediction-scratch" target="_blank">
-          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>Linear Regression from Scratch</strong><br/>Built in pure Python — zero libraries</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔤 Autocorrect NLP</h3>
-      <p align="center">
-        <a href="https://github.com/keerthishree20/autocorrect-nlp" target="_blank">
-          <img src="https://img.shields.io/badge/-View_Repo-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>Probabilistic Spell-Checker & Autocorrect</strong><br/>Peter Norvig's algorithm + JSON caching — Python & Flask</p>
-    </td>
-    <td width="50%" valign="top">
+      <p align="center"><strong>Full-Stack Blog Platform</strong><br/>Next.js 16 + TipTap editor + Auth.js + PostgreSQL</p>
     </td>
   </tr>
 </table>
@@ -212,6 +325,10 @@
   &nbsp;
   <a href="https://github.com/keerthishree20" target="_blank">
     <img src="https://img.shields.io/badge/-keerthishree20-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-navy-phi-66.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-A960FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
